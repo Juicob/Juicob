@@ -8,7 +8,7 @@
 
 - :beers:  I'd be excited to collaborate on **anything beer or music related!**
 
-- :bar_chart:  I’m looking for help with **D3.js**
+- :bar_chart:  I’m looking for help with **Apache Airflow and D3.js**
 
 - 💬 Ask me about **Inspo-Papi**
 
