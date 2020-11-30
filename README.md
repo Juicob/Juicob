@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **juico.s.bowley@gmail.com**
 
-- :rugby_football:  Fun fact **I play rugby and sing Disney!**
+- :rugby_football:  Fun fact - **I play rugby and sing Disney!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
