@@ -6,7 +6,7 @@
 
 - :book:  I’m currently learning **QGIS, Dash, and Power BI**
 
-- :beers:  I'd be excited to collaborate on **anything beer or music related!**
+- :beers:  I'd be excited to collaborate on **any beer or music related project!**
 
 - :bar_chart:  I’m looking for help with **Apache Airflow and D3.js**
 
