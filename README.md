@@ -1,6 +1,6 @@
 <h1 align="center">Yo :v:, I'm Juico.</h1>
 <h6 align="center">It's a weird name I know. Just call me Juice for now and we can go over pronunciation later. :smile: </h6>
-<h3 align="center">Junior Data Engineer working on being less junior. Currently a Data Science student at Flatiron.</h3>
+<h3 align="center">Junior Data Engineer and Data Science student at Flatiron.</h3>
 
 - 🔭 I’m currently working on [Ye-Spirations](https://github.com/Juicob/ye-spirations)
 
